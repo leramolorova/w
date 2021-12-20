@@ -1,0 +1,198 @@
+@font-face{
+	font-family: hp;
+	src: url(harry.ttf.ttf);
+}
+@font-face{
+	font-family: font1;
+	src: url(rany-medium.otf);
+}
+@font-face{
+	font-family: font2;
+	src: url(rany-bold.otf);
+}
+.fontik02{
+	font-family: font2;
+}
+.fontik{
+	font-family: font1;
+}
+.head1{
+	height: 145px;
+}
+.head1:hover{
+	background-color:  #2b2b36;
+	transition: background 0.25s linear;
+	
+}
+.head2{
+	height: 65px;
+}
+.head1:hover .head2{
+	background-color: #222324;
+	transition: background 0.5s;
+}
+
+
+.textHarry{
+	font-family: hp;
+}
+
+.position{
+	margin-top: 70px;
+	margin-left: 100px;
+}
+
+.bgred{
+	background: red;
+}
+.h-350{
+	height: 350px;
+}
+.h-100{
+	height: 100px;
+}
+.h-80{
+	height: 80px;
+}
+.h-65{
+	height: 65px;
+}
+.h-4000{
+	height: 4000px;
+}
+.h-600{
+	height: 600px;
+}
+.w-1200{
+	width: 1200px;
+}
+.w-1500{
+	width: 1500px;
+}
+.w-150{
+	width: 150px;
+}
+.center{
+	margin-right: auto;
+	margin-left: auto;
+}
+.bgblue{
+	background: blue;
+}
+.mt-70{
+	margin-top: 70px;
+}
+.box{
+	height: 370px;
+	width: 370px;
+}
+
+.ml-100{
+	margin-left: 100px;
+}
+.d-f{
+	display: flex;
+}
+.framebig{
+	height: 500px;
+	width: 960px;
+}
+.ml{
+	margin-left: auto;
+}
+.framesmall{
+	height: 300px;
+	width: 650px;
+}
+.mr{
+	margin-right: auto;
+}
+.p-a{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.p-a1{
+	position: absolute;
+	top: 800px;
+	left: 800px;
+}
+.ml-500{
+	margin-left: 500px;
+}
+.mt-180{
+	margin-top: 180px;
+}
+.mt-100{
+	margin-top: 100px;
+}
+.text-center{
+	text-align: center;
+}	
+.links{
+	text-decoration: none;
+	color: #d0d1ab;
+	size: 50px;
+	margin-top: 10 px;
+
+}
+.book{
+	height: 450px;
+	width: 400px;
+	border-radius: 14px;
+	background: #2b2b36;
+}
+.book:hover{
+	height: 450px;
+	width: 400px;
+	background: #2b2b36;
+	opacity: 0.8;
+	border-radius: 14px;
+
+}
+.bgdark{
+	background: #222324;
+	opacity: 0.8;
+	border-radius: 14px;
+}
+
+
+.weasly{
+	height: 370px;
+	width: 370px;
+	background-image: url(uizly.jpg);
+	background-size: 100% 100%;
+}
+.weasly:hover{
+	height: 370px;
+	width: 370px;
+	background-image: url(ron111.jpg);
+	background-size: 100% 100%;
+	transition: background 0.5s;
+}
+.hermiona{
+	height: 370px;
+	width: 370px;
+	background-image: url(germiona.jpg);
+	background-size: 100% 100%;
+}
+.hermiona:hover{
+	height: 370px;
+	width: 370px;
+	background-image: url(hermiona.png);
+	background-size: 100% 100%;
+	transition: background 0.5s;
+}
+.harry{
+	height: 370px;
+	width: 370px;
+	background-image: url(harry.png);
+	background-size: 100% 100%;
+}
+.harry:hover{
+	height: 370px;
+	width: 370px;
+	background-image: url(harry333.jfif);
+	background-size: 100% 100%;
+	transition: background 0.5s;
+}
